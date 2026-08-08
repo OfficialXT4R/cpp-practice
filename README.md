@@ -1,39 +1,42 @@
 # C++ Study Guide
 
-A shared collection of C++ notes, code snippets, examples, and practice programs made for studying together.
+A beginner-friendly C++ study repository made for reviewing, practicing, and experimenting with C++.
+This repository is designed to be used alongside our classes. Think of it as a shared study guide we can use to review concepts and practice writing code.
 
-This repository is meant to help us understand C++ concepts through simple examples that we can read, experiment with, and learn from.
+## Repository structure
 
-## What's inside?
-* `code-snippets/` — small examples demonstrating specific C++ concepts
-* `projects/` — complete practice programs and mini-projects
-* `README.md` — overview and guide to the repository
+### `01 - Basics`
 
-## Topics
+Topics include:
 
-The repository covers concepts such as:
-
-* Variables & Data Types
-* Input & Output
-* Operators
-* Conditionals
+* Variables and Data Types
+* Input and Output
+* Arithmetic
+* Conditions
+* Switch Statements
 * Loops
 * Functions
 * Arrays
 * Strings
-* and other C++ concepts
+* References
+* Pointers
+* Structs
 
-## For everyone...
+Each example contains the code first, followed by a short explanation at the bottom.
 
-The goal is to make C++ easier to understand by keeping examples simple, readable, and beginner-friendly. Comments and explanations are HIGHLY encouraged, especially when they help explain *why* something works.
-Feel free to experiment with the code, learn from it, and add useful examples of your own!
+### `02 - practice`
 
-## Contribution
+Small projects that combine concepts from the basics section.
 
-If you want to add something useful:
+Current projects:
+* Calculator
+* Number Guessing Game
+* Pattern Generator
 
-1. Add your example or notes to the appropriate folder.
-2. Keep the code simple and readable.
-3. Please add comments when they help explain a concept.
-4. Commit your changes with a clear message.
-5. Push your changes to the repository. (You may contact one of us or search online how to do so :D)
+If you get stuck, use the examples as references rather than immediately copying the solution.
+
+## 🤝 for the class
+
+This repository is a shared study resource. If you find a mistake, have a better example, or want to add a useful practice project, feel free to contribute.
+
+Happy coding :D
