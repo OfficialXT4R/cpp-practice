@@ -24,7 +24,7 @@ Topics include:
 
 Each example contains the code first, followed by a short explanation at the bottom.
 
-### `02 - practice`
+### `02 - Practice`
 
 Small projects that combine concepts from the basics section.
 
@@ -34,8 +34,6 @@ Current projects:
 * Pattern Generator
 
 If you get stuck, use the examples as references rather than immediately copying the solution.
-
-## For the class...
 
 This repository is a shared study resource. If you find a mistake, have a better example, or want to add a useful practice project, feel free to contribute.
 
