@@ -35,7 +35,7 @@ Current projects:
 
 If you get stuck, use the examples as references rather than immediately copying the solution.
 
-## 🤝 for the class
+## For the class...
 
 This repository is a shared study resource. If you find a mistake, have a better example, or want to add a useful practice project, feel free to contribute.
 
